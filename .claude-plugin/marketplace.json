@@ -1,0 +1,1 @@
+{"name":"bearings-skills","description":"Skills from Bearings, by Catherine Winfield.","owner":{"name":"Catherine Winfield"},"plugins":[{"name":"hypothesis-review","source":"./plugins/hypothesis-review","description":"A sparring partner that pressure-tests a product, GTM, or business hypothesis before a review, using six readiness fields and the Council of Five."}]}
